@@ -11,3 +11,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/72259211/125152980-50de0a80-e159-11eb-9576-633143cf5a7a.png)
+
+
+prakt2.m - реализация математической модели в Matlab
